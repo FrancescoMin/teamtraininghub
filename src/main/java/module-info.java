@@ -5,7 +5,7 @@ module com.framin.teamtraininghub {
 
     requires org.controlsfx.controls;
     requires net.synedra.validatorfx;
-    requires eu.hansolo.tilesfx;
+    //requires eu.hansolo.tilesfx;
 
     opens com.framin.teamtraininghub to javafx.fxml;
     exports com.framin.teamtraininghub;
